@@ -1,0 +1,9 @@
+{
+  "/api/analyze-dataset/route": "app/api/analyze-dataset/route.js",
+  "/page": "app/page.js",
+  "/api/validate-dataset/route": "app/api/validate-dataset/route.js",
+  "/api/identify-features/route": "app/api/identify-features/route.js",
+  "/upload/page": "app/upload/page.js",
+  "/api/rank-materials/route": "app/api/rank-materials/route.js",
+  "/api/generate-ai-materials/route": "app/api/generate-ai-materials/route.js"
+}
